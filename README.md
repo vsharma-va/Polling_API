@@ -7,7 +7,7 @@ All the packages used are listed in requirements.txt file. No additional downloa
 ![image](https://github.com/vsharma-va/Polling_API/assets/78730763/857582ad-ed94-4fc1-bb77-b7653ee577c5)
 
 ## Flow (Program is divided into two parts)->
-
+#### Detailed information of each function is written as comments in individual files
 * ###  main_1.py ->
   * It is responsible for readying the data for report generation.
   * For optimization purposes the data is only recalculated when a change is detected in **store status.csv** file.
